@@ -1,5 +1,5 @@
 const persons = [
-  { name: "Tanvir", age: 25, gender: "female" },
+  { name: "Tuli", age: 25, gender: "female" },
   { name: "Sabbir", age: 30, gender: "male" },
   { name: "Johny", age: 22, gender: "male" },
   { name: "Afrin", age: 27, gender: "female" },

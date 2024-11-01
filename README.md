@@ -11,6 +11,6 @@
   - [8. Unique Values](#unique-values)
   - [9. Find Maximum Value](#find-maximum-value)
   - [10. Advanced Sorting](#advanced-sorting)
-  - [11. Functional Programming - Reduce](#functional-programming)
+  - [11. Functional Programming](#functional-programming)
 
 
